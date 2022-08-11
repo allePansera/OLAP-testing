@@ -1,4 +1,4 @@
 flask
 cubes
 sqlalchemy==0.7.4
-jinja===3.0.0rc2
+jinja2===3.0.0rc2
