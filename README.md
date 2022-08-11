@@ -17,7 +17,7 @@ Inside /web directory in example directory is located the code to run cubes at 1
 Data are stored inside data.csv file in /local directory.
 
 Execution Step:
-* cd /local
+* cd /web
 * pip3 (or python -m pip) install -r requirements.txt
 * python3 (or python 4 win10/11 users) prepare_data.py
 * python3 (or python 4 win10/11 users) application.py
