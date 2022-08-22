@@ -22,3 +22,9 @@ Execution Step:
 * python3 (or python 4 win10/11 users) prepare_data.py
 * python3 (or python 4 win10/11 users) application.py
 
+## 2ND Local Test
+Inside /2nd_local directory in example directory is located the code to run locally basic aggregation.
+Data are stored inside export_data_fotografia.csv file in /2nd_local directory.
+In order to run the samples the steps are the same for 'local'.
+
+
