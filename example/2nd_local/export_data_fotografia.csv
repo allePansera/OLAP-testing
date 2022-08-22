@@ -1,0 +1,65 @@
+id_fotografia,fotografia,id_fotografo,fotografo,nazionalita,id_concorso,concorso,digitale,anno,voto
+1,tramonto,1,Henri Cartier-Bresson,francese,1,National Geographic International Photography Contest,True,2008,6
+1,tramonto,1,Henri Cartier-Bresson,francese,2,National Geographic International Photography Contest,True,2009,7
+1,tramonto,1,Henri Cartier-Bresson,francese,4,National Wildlife Photo Contest,False,2008,7
+2,tramonto,2,Sebastiao Salgado,spagnolo,1,National Geographic International Photography Contest,True,2008,7
+3,tramonto,3,Robert Doisneau,,1,National Geographic International Photography Contest,True,2008,8
+4,tramonto,4,Andrea Abati,italiano,1,National Geographic International Photography Contest,True,2008,3
+4,tramonto,4,Andrea Abati,italiano,2,National Geographic International Photography Contest,True,2009,5
+5,tramonto,5,Araki Nobuyoshi,giapponese,1,National Geographic International Photography Contest,True,2008,4
+6,tramonto,6,Helmut Newton,tedesco,1,National Geographic International Photography Contest,True,2008,6
+7,psiche,1,Henri Cartier-Bresson,francese,6,Self-Searching Photography Exhibition,False,2006,6
+7,psiche,1,Henri Cartier-Bresson,francese,8,Colors of Life Photography Contest,True,2006,6
+8,psiche,2,Sebastiao Salgado,spagnolo,7,Self-Searching Photography Exhibition,False,2008,4
+9,alba e tramonto,2,Sebastiao Salgado,spagnolo,2,National Geographic International Photography Contest,True,2009,9
+10,alba e tramonto,3,Robert Doisneau,,2,National Geographic International Photography Contest,True,2009,7
+11,alba e tramonto,4,Andrea Abati,italiano,3,National Geographic International Photography Contest,True,2010,6
+11,alba e tramonto,4,Andrea Abati,italiano,4,National Wildlife Photo Contest,False,2008,8
+12,alba e tramonto,5,Araki Nobuyoshi,giapponese,3,National Geographic International Photography Contest,True,2010,5
+12,alba e tramonto,5,Araki Nobuyoshi,giapponese,4,National Wildlife Photo Contest,False,2008,5
+13,montagna,2,Sebastiao Salgado,spagnolo,4,National Wildlife Photo Contest,False,2008,2
+14,montagna,3,Robert Doisneau,,4,National Wildlife Photo Contest,False,2008,6
+17,montagna,7,Edward Weston,americano,1,National Geographic International Photography Contest,True,2008,7
+18,montagna,8,David Seymour,,1,National Geographic International Photography Contest,True,2008,9
+19,oceano,1,Henri Cartier-Bresson,francese,3,National Geographic International Photography Contest,True,2010,9
+20,oceano,2,Sebastiao Salgado,spagnolo,3,National Geographic International Photography Contest,True,2010,3
+21,oceano,3,Robert Doisneau,,3,National Geographic International Photography Contest,True,2010,7
+21,oceano,3,Robert Doisneau,,5,National Wildlife Photo Contest,False,2010,6
+22,oceano,4,Andrea Abati,italiano,5,National Wildlife Photo Contest,False,2010,7
+22,oceano,4,Andrea Abati,italiano,9,Colors of Life Photography Contest,True,2008,4
+23,oceano,5,Araki Nobuyoshi,giapponese,2,National Geographic International Photography Contest,True,2009,4
+23,oceano,5,Araki Nobuyoshi,giapponese,9,Colors of Life Photography Contest,True,2008,5
+24,oceano,6,Helmut Newton,tedesco,3,National Geographic International Photography Contest,True,2010,8
+24,oceano,6,Helmut Newton,tedesco,9,Colors of Life Photography Contest,True,2008,8
+25,metropoli,1,Henri Cartier-Bresson,francese,9,Colors of Life Photography Contest,True,2008,6
+25,metropoli,1,Henri Cartier-Bresson,francese,10,Colors of Life Photography Contest,True,2010,6
+26,metropoli,2,Sebastiao Salgado,spagnolo,9,Colors of Life Photography Contest,True,2008,3
+26,metropoli,2,Sebastiao Salgado,spagnolo,10,Colors of Life Photography Contest,True,2010,10
+27,metropoli,3,Robert Doisneau,,9,Colors of Life Photography Contest,True,2008,6
+27,metropoli,3,Robert Doisneau,,10,Colors of Life Photography Contest,True,2010,3
+28,metropoli,4,Andrea Abati,italiano,10,Colors of Life Photography Contest,True,2010,5
+33,ritratto,2,Sebastiao Salgado,spagnolo,6,Self-Searching Photography Exhibition,False,2006,7
+33,ritratto,2,Sebastiao Salgado,spagnolo,8,Colors of Life Photography Contest,True,2006,7
+34,ritratto,3,Robert Doisneau,,6,Self-Searching Photography Exhibition,False,2006,7
+34,ritratto,3,Robert Doisneau,,8,Colors of Life Photography Contest,True,2006,7
+35,ritratto,4,Andrea Abati,italiano,7,Self-Searching Photography Exhibition,False,2008,5
+36,ritratto,6,Helmut Newton,tedesco,4,National Wildlife Photo Contest,False,2008,6
+36,ritratto,6,Helmut Newton,tedesco,7,Self-Searching Photography Exhibition,False,2008,7
+37,autoritratto,1,Henri Cartier-Bresson,francese,7,Self-Searching Photography Exhibition,False,2008,3
+39,autoritratto,3,Robert Doisneau,,7,Self-Searching Photography Exhibition,False,2008,4
+40,autoritratto,4,Andrea Abati,italiano,6,Self-Searching Photography Exhibition,False,2006,9
+41,autoritratto,5,Araki Nobuyoshi,giapponese,6,Self-Searching Photography Exhibition,False,2006,4
+41,autoritratto,5,Araki Nobuyoshi,giapponese,8,Colors of Life Photography Contest,True,2006,4
+41,autoritratto,5,Araki Nobuyoshi,giapponese,10,Colors of Life Photography Contest,True,2010,9
+42,autoritratto,6,Helmut Newton,tedesco,6,Self-Searching Photography Exhibition,False,2006,6
+42,autoritratto,6,Helmut Newton,tedesco,8,Colors of Life Photography Contest,True,2006,6
+42,autoritratto,6,Helmut Newton,tedesco,10,Colors of Life Photography Contest,True,2010,4
+43,autoritratto,7,Edward Weston,americano,6,Self-Searching Photography Exhibition,False,2006,7
+43,autoritratto,7,Edward Weston,americano,8,Colors of Life Photography Contest,True,2006,8
+44,collina,2,Sebastiao Salgado,spagnolo,5,National Wildlife Photo Contest,False,2010,3
+45,collina,5,Araki Nobuyoshi,giapponese,5,National Wildlife Photo Contest,False,2010,8
+46,collina,6,Helmut Newton,tedesco,5,National Wildlife Photo Contest,False,2010,3
+47,collina,7,Edward Weston,americano,5,National Wildlife Photo Contest,False,2010,6
+48,collina,8,David Seymour,,5,National Wildlife Photo Contest,False,2010,6
+48,collina,8,David Seymour,,9,Colors of Life Photography Contest,True,2008,6
+48,collina,8,David Seymour,,10,Colors of Life Photography Contest,True,2010,6

@@ -1,0 +1,66 @@
+{
+    "dimensions": [
+        {
+         "name":"item",
+         "levels": [
+                {
+                    "name":"fotografia",
+                    "label":"Fotografia",
+                    "attributes": ["id_fotografia", "fotografia"]
+                },
+                {
+                    "name":"fotografo",
+                    "label":"Fotografo",
+                    "attributes": ["id_fotografo", "fotografo","nazionalita"]
+                },
+                {
+                    "name":"concorso",
+                    "label":"Concorso",
+                    "attributes": ["id_concorso","concorso","digitale"]
+                }
+            ],
+         "hierarchies": [
+                {
+                "name": "default",
+                "levels": ["fotografia", "fotografo","concorso"]
+                },
+                {
+                "name": "reverse",
+                "levels": ["concorso", "fotografo", "fotografia"]
+                }
+            ]
+
+        },
+        {"name":"year", "role": "time"}
+    ],
+    "cubes": [
+        {
+            "name": "irbd_fotografie",
+            "dimensions": ["item", "year"],
+            "measures": [
+                {"name":"voto", "label":"Voto"}
+            ],
+            "aggregates": [
+                    {
+                        "name": "voto_avg",
+                        "function": "avg",
+                        "measure": "voto"
+                    },
+                    {
+                        "name": "record_count",
+                        "function": "count"
+                    }
+                ],
+            "mappings": {   
+                            "item.id_fotografia": "id_fotografia",
+                            "item.fotografia": "fotografia",
+                            "item.id_fotografo": "id_fotografo",
+                            "item.fotografo": "fotografo",
+                            "item.nazionalita": "nazionalita",
+                            "item.id_concorso": "id_concorso",
+                            "item.concorso": "concorso",
+                            "item.digitale": "digitale"
+                         }
+        }
+    ]
+}
